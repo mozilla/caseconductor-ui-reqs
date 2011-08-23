@@ -1,5 +1,5 @@
-tcm-ui-reqs
-===========
+Case Conductor UI Python dependencies
+=====================================
 
 Python dependencies of the Case Conductor test case management system UI
 component.  Pulled in as a submodule of
