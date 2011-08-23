@@ -1,8 +1,9 @@
 tcm-ui-reqs
 ===========
 
-Python dependencies of the Mozilla/uTest Test Case Manager project UI
-component. Pulled in as a submodule of https://github.com/mozilla/tcm/
+Python dependencies of the Case Conductor test case management system UI
+component.  Pulled in as a submodule of
+https://github.com/mozilla/caseconductor-ui/
 
 Packages can be added here with ``pip install --download=. 
 packageName==version``.
